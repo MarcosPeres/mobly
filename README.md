@@ -5,7 +5,7 @@ Este é um projeto de desenvolvimento de uma API de cadastramento de produtos vi
 
 Dowload do projeto
 
-https://gitlab.com/marcosmperes/leroySys.git
+https://github.com/MarcosPeres/mobly
 
 ## Server Requirements
 
