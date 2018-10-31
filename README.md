@@ -29,7 +29,7 @@ JSON PHP Extension
 
 ## Documentation
 
-Para acessar a documentação acesse: https://leroy-leroysys.gitbook.io/project/
+Para acessar a documentação acesse: https://github.com/MarcosPeres/mobly
 
 
 ## Contributing
